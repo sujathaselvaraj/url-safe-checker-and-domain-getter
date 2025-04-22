@@ -1,0 +1,43 @@
+{
+  "name": "url-safe-checker-and-domain-getter",
+  "version": "1.0.0",
+  "description": "Check URL safety using Google Safe Browsing API and get registered domain info",
+  "main": "index.js",
+  "scripts": {
+    "test": "nill"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujathaselvaraj/url-safe-checker-and-domain-getter.git"
+  },
+  "keywords": [
+    "Url",
+    "checker",
+    "safe",
+    "checker",
+    "domain",
+    "domain",
+    "information",
+    "domain",
+    "info",
+    "getter",
+    "safe",
+    "browsing",
+    "whois",
+    "url",
+    "safety",
+    "checker",
+    "url",
+    "validator"
+  ],
+  "author": "Sujatha Selvaraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujathaselvaraj/url-safe-checker-and-domain-getter/issues"
+  },
+  "homepage": "https://github.com/sujathaselvaraj/url-safe-checker-and-domain-getter#readme",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "whois": "^2.14.2"
+  }
+}
