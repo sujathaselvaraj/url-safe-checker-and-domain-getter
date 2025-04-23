@@ -1,6 +1,6 @@
 {
   "name": "url-safe-checker-and-domain-getter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check URL safety using Google Safe Browsing API and get registered domain info",
   "main": "index.js",
   "scripts": {
